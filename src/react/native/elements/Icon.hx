@@ -1,4 +1,4 @@
 package react.native.elements;
 
-@:jsRequire('react-native-elements', 'default.Icon')
+@:jsRequire('react-native-elements', 'Icon.default')
 extern class Icon extends react.ReactComponent {}
